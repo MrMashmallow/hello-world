@@ -1,7 +1,8 @@
 # hello-world
 This is my hello world repo!
 
-## this  is an h2
+###--------------------------------
+
 
 ## Things to do before freedom
 
@@ -10,3 +11,5 @@ This is my hello world repo!
 * Bible Quiz
 * Book Report
 * Science Test
+
+### -------------------------------
