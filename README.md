@@ -3,7 +3,7 @@ This is my hello world repo!
 
 ## this  is an h2
 
-## this is an h3
+## Things to do before freedom
 
 * Science Project
 * Math Test
