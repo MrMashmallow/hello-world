@@ -1,7 +1,7 @@
 # hello-world
 This is my hello world repo!
 
-###--------------------------------
+### --------------------------------
 
 
 ## Things to do before freedom
